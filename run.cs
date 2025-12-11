@@ -48,7 +48,7 @@ class Program
 
     static string ReadInteractive()
     {
-        Console.Write("Run: ");
+        Console.Write("run: ");
         return Console.ReadLine()?.Trim() ?? "";
     }
 
@@ -140,4 +140,5 @@ class Program
             return false;
         }
     }
+
 }
