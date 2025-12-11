@@ -1,3 +1,5 @@
+<img width="712" height="321" alt="image" src="https://github.com/user-attachments/assets/29567fe6-864a-4409-8df6-ca874187a37a" />
+
 # run for cmd
 as the name suggests, this is the windows run prompt for the command line. because this behave almost exactly like the run prompt, it will start a detached process when you run things with it.
 
