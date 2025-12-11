@@ -1,5 +1,5 @@
 # run for cmd
-as the name suggests, this is the windows run prompt for the command line
+as the name suggests, this is the windows run prompt for the command line. because this behave almost exactly like the run prompt, it will start a detached process when you run things with it.
 
 ## download
 you can download the program [here](https://github.com/eightynine77/run-for-cmd/releases/latest)
