@@ -1,6 +1,9 @@
 # run for cmd
 as the name suggests, this is the windows run prompt for the command line
 
+## download
+you can download the program [here](https://github.com/eightynine77/run-for-cmd/releases/latest)
+
 ## how to use
 like windows run, you can use it in two ways:
 1. use it with command arguments.
